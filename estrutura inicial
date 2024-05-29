@@ -1,0 +1,14 @@
+restaurant-review/
+├── main.go
+├── controllers/
+│   └── auth_controller.go
+├── models/
+│   └── user.go
+├── routes/
+│   └── auth_routes.go
+├── utils/
+│   └── jwt.go
+├── config/
+│   └── config.go
+└── database/
+    └── db.go
