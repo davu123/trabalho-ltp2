@@ -1,0 +1,13 @@
+restaurant-review/
+├── controllers/
+│   └── auth_controller.go
+│   └── restaurant_controller.go
+│   └── review_controller.go
+├── models/
+│   └── user.go
+│   └── restaurant.go
+│   └── review.go
+├── routes/
+│   └── auth_routes.go
+│   └── restaurant_routes.go
+│   └── review_routes
